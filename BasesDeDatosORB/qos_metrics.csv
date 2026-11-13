@@ -1,0 +1,1 @@
+metric_id,link_id,timestamp_utc,latency_ms,packet_loss_rate,availability_rate,algorithm_used,measurement_type
