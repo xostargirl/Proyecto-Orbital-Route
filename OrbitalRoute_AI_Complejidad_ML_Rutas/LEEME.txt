@@ -1,0 +1,18 @@
+ORBITALROUTE AI — INVESTIGACIÓN DE COMPLEJIDAD COMPUTACIONAL Y MACHINE LEARNING
+
+ARCHIVOS:
+- OrbitalRoute_AI_Complejidad_ML_Rutas.ipynb : notebook principal.
+- OrbitalRoute_AI_base_sintetica.csv : 240 observaciones QoS.
+- orbitalroute_base_sintetica.csv : 120 observaciones de 12 satélites.
+
+INSTALACIÓN:
+python -m pip install pandas numpy matplotlib scikit-learn networkx jupyter
+
+EJECUCIÓN:
+1. Coloca los tres archivos en la misma carpeta.
+2. Abre el notebook en Jupyter o VS Code.
+3. Selecciona el kernel de Python 3.
+4. Ejecuta todas las celdas en orden.
+
+NOTA DE DATOS:
+Las dos bases son sintéticas/didácticas, no mediciones reales. El notebook identifica explícitamente las aproximaciones de la topología y de disponibilidad.
