@@ -1,0 +1,13 @@
+OrbitalRoute AI — Redes de Computadoras
+
+Contenido:
+- OrbitalRoute_AI_Redes_de_Computadoras.ipynb: notebook completo.
+- nodos_red.csv: nodos de la red simulada.
+- enlaces_red_simulados.csv: enlaces y métricas sintéticas.
+- trafico_simulado.csv: ejemplo de flujos simulados.
+
+Instalación:
+python -m pip install pandas numpy matplotlib networkx jupyter
+
+Abre el notebook en Jupyter o VS Code y ejecuta las celdas en orden.
+Los datos son sintéticos y de uso académico; no representan una red real.
